@@ -1,0 +1,125 @@
+/* 
+~~~~ Color Palette ~~~~
+  tan: #EBD8D0;
+  pink white: #FFFBFF;
+  grey: #463E3F;
+*/ 
+
+body {
+  margin: 0 0 0 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+img {
+  width: 90%;
+  margin: 3% 2% 2% 2%;
+  border: 1%;
+  border-style: solid;
+  border-color:#463E3F;
+  border-radius: 1%;
+}
+
+iframe {
+  padding: 4%;
+}
+
+#right {
+  position: fixed;
+  width: 35%;
+  margin-left: 65%;
+  height: 100%;
+  background-color: #463E3F;
+  text-align: center;
+}
+
+#right h1, #right p {
+  color: #FFFBFF;
+}
+
+#right h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 80px;
+}
+
+#right p {
+  font-weight: 100;
+}
+
+h1, p, li {
+  color: #463E3F;
+  margin: 0;
+}
+
+#left {
+  position: static;
+  overflow: visible;
+  margin-right: 35%;
+  width: 65%;
+  position: relative;
+}
+
+.box {
+  width: 100%;
+  margin: 0 auto; 
+  text-align: center
+} 
+
+.text-box {
+  padding: 5%;
+  margin-top: 20%;
+}
+.tan {
+  background-color: #EBD8D0;
+}
+
+.pink {
+  background-color: #EAC9C1;
+}
+
+.white {
+  background-color: #FFFBFF; 
+}
+
+.project {
+  padding: 3% 5% 5% 5%;
+  margin: auto;
+  text-align: center;
+}
+
+ul.links {
+  margin: 0;
+  padding: 0;
+}
+
+.contact li {
+  display: inline-flex;
+  padding: 0 1% 0 1%;
+  text-align: center;
+}
+
+.links li {
+  display: inline-flex;
+  padding: 3% 2% 0 2%;
+}
+
+svg {
+  fill: #FFFBFF;
+  padding: 3%;
+  width: 7%;
+}
+
+h1.title {
+  font-size: 50px;
+  color: #463E3F;
+  padding: 1.5%;
+}
+
+a {
+    color: #463E3F;
+}
+
+.contact a {
+  color: #FFFBFF;
+  font-weight: 100;
+}
+
