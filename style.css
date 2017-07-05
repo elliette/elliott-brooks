@@ -114,6 +114,10 @@ h1.title {
   padding: 1.5%;
 }
 
+.project h1 {
+  font-family: 'Dancing Script', cursive;
+}
+
 a {
     color: #463E3F;
 }
@@ -122,4 +126,6 @@ a {
   color: #FFFBFF;
   font-weight: 100;
 }
+
+
 
